@@ -106,4 +106,8 @@ st.plotly_chart(fig, use_container_width=True)
 # -----------------------------
 st.markdown("---")
 st.markdown("Built with ❤️ using Streamlit, Plotly & Sklearn")
+your-repo/
+├── streamlit_app.py
+└── Startups (1).csv
+
 
